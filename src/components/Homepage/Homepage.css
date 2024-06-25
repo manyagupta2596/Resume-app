@@ -1,0 +1,45 @@
+.hp-container{
+  display:flex;
+  align-items:center;
+  height:90vh;
+
+}
+.hp-left{
+  flex:0.6;
+  padding-right:30px;
+
+}
+.hp-left-h1{
+  font-size:22px;
+}
+.intro{
+  color:rgb(28, 28, 237)
+}
+.hp-left-h2{
+  font-size:48px;
+  font-weight: 700;
+}
+.hp-left-h3{
+  font-size: 30px;
+}
+.hp-left-desc{
+  font-size:15px;
+}
+.logo{
+  height:40px;
+  
+}
+.hp-right{
+ flex:0.4;
+}
+.hp-right>img{
+  width:100%;
+}
+.btn{
+  margin-top:25px;
+  font-size:20px;
+  padding:8px 10px;
+  border:2px solid blue;
+  cursor:pointer;
+
+}

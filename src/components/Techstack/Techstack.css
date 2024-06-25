@@ -1,0 +1,14 @@
+.ts-container{
+  height:80vh;
+
+}
+.title{
+  font-size:40px;
+  font-weight: 700;
+  text-align:center;  
+
+}
+.ts-icon-container{
+  display:flex;
+  margin:60px 0;
+}

@@ -1,0 +1,11 @@
+.exp-card-container{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.exp-title{
+  font-size:50px;
+  font-weight: 700;
+  text-align: center;
+}

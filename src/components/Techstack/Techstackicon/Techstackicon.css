@@ -1,0 +1,16 @@
+.ts-icon{
+  flex:33%;
+  width:120px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content: center;
+}
+.ts-icon>img{
+  width:80px;
+  cursor:pointer;
+}
+.ts-icon>img:hover{
+  transform:scale(0.6);
+
+}

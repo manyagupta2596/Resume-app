@@ -1,0 +1,22 @@
+.prj-box-container{
+  padding:5px;
+  margin:20px;
+  box-shadow:0 5px 15px;
+  width:400px;
+}
+.prj-box-img-container>img{
+  width: 100%;
+
+}
+.prj-desc{
+  padding:0 10px;
+}
+.prj-box-title{
+  font-size:35px;
+  font-weight: 700;
+  text-align:center;
+  color:blue;
+}
+.prj-box-sentence>p{
+  font-size: 16px;
+}
